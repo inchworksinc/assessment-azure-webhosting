@@ -1,5 +1,5 @@
-# Deploy a web application on Azure App Service
-Assessment exercise . Hosting your web application using Azure App Service
+# Deploy a web application on Azure
+Assessment exercise . Hosting your web application on azure
 
 ## Part I
 Imagine your organization is building a new corporate website. Their current site is running on a legacy on-premises server, setting up a new server requires new hardware, operating system, web-hosting stack, and maintance. The IT technical leadership wants to avoid all those challenges, and they are looking at options offered by Azure cloud for hosting their new website.
@@ -12,7 +12,7 @@ The requirements include:
 - The team members prefer Javascript orTypescript for the backend development.
 
 ## Part II
-Visit the Azure portal (https://portal.azure.com)[https://portal.azure.com] and create a Web App as per the requirements listed on **Part I**.
+Visit the Azure portal (https://portal.azure.com)[https://portal.azure.com] and create an azure service as per the requirements listed on **Part I**.
 
 A sandbox environment has been provisioned for you to complete this excercise.
 - **Login credentials:** [to be provided] 
@@ -21,14 +21,14 @@ A sandbox environment has been provisioned for you to complete this excercise.
 - **Region:** EastUS2 
 
 ## Part III
-Once the Web App is up and running please publish the content, and verify the deployment was successfull.
+Once the Web App is up and running please publish the content, and verify the deployment was successful.
 
 A simple “Hello World” example has been provided on this repository to you to complete the excercise. You can clone or download this repository and the example can be found inside the **application** folder.
 
 ## Part IV
 The business expects the corporate website to be available 24/7 or with a minimal or close to zero downtime. This requirement translates to a high SLA for this application. Based on the requirement the IT leadership wants zero downtime during deployments.
 
-How can you make deployments of the app to Azure App service have zero downtime? 
+How can you make deployments of the app to have zero downtime? 
 
 Please proceed to make the necessary changes.
 
