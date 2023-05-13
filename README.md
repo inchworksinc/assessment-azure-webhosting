@@ -2,7 +2,7 @@
 Assessment exercise . Hosting your web application using Azure App Service
 
 ## Part I
-Imagine your organization is building a new corporate website. Their current site is runnin on a legacy on-premises server, setting up a new server requires new hardware, operating system, web-hosting stack, and maintance. The IT technical leadership wants to avoid all those challenges, and they are looking what are the options offered by Azure cloud for hosting their new website.
+Imagine your organization is building a new corporate website. Their current site is runnin on a legacy on-premises server, setting up a new server requires new hardware, operating system, web-hosting stack, and maintance. The IT technical leadership wants to avoid all those challenges, and they are looking at options offered by Azure cloud for hosting their new website.
 
 Can you recommend a solution to host your company website on Azure? 
 
