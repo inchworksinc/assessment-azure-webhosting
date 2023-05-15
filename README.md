@@ -7,9 +7,8 @@ Imagine your organization is re-building their corporate website. Their current 
 Can you recommend a solution to host the company website on Azure? 
 
 The requirements include: 
-- The new website has a Single Page Application architecture.
-- There are some features of the web application that requires interaction with a database hosted on Azure.
-- The team members prefer Javascript or Typescript for the backend development.
+- The new website content is all static (HTML, CSS, JavaScript, and images).
+- The new website does not require any server side rendenring.
 
 ## Part II
 Visit the Azure portal [https://portal.azure.com](https://portal.azure.com) and create your solution as per the requirements listed on **Part I**.
